@@ -1,8 +1,8 @@
 ### Hi, I'm musqz 👋
 
-On Linux since Ubuntu Warty, moved through Debian-based distros, dropped Ubuntu entirely, and have been Arch-based for the last ~10 years. Daily driver is [Mabox Linux](https://maboxlinux.org/).
+On Linux since Ubuntu Warty (2004), moved through Debian-based distros, dropped Ubuntu entirely, and have been Arch-based for the last ~10 years. Daily driver is [Mabox Linux](https://maboxlinux.org/).
 
-First code I ever wrote was on a Commodore 64 — moving fields around the screen, putting together simple animations. No formal background since — I learned by reading forum threads and wikis, copy-pasting snippets together, a lot of trial-and-error, then more reading until it actually made sense. Most of it came from studying and forking scripts across a lineage of distros: PsychOS, MX Linux, Puppy Linux, ArcoLinux, and for the last few years Mabox scripts (by Daniel). ArcoLinux and Mabox especially are where understanding a script's structure — what a function is actually doing, rather than just pattern-matching snippets — started to click. Claude Code builds on that now, on bigger or less familiar codebases.
+First code I ever wrote was on a Commodore 64 (1981) — moving fields around the screen, putting together simple animations. No formal background since — I learned by reading forum threads and wikis, copy-pasting snippets together, a lot of trial-and-error, then more reading until it actually made sense. Most of it came from studying and forking scripts across a lineage of distros: PsychOS, MX Linux, Puppy Linux, ArcoLinux, and for the last few years Mabox scripts (by Daniel). ArcoLinux and Mabox especially are where understanding a script's structure — what a function is actually doing, rather than just pattern-matching snippets — started to click. Claude Code builds on that now, on bigger or less familiar codebases.
 
 - 🐚 Bash first, always — it's home turf. I only look into Python once something already works in Bash and needs more.
 - 🧩 One file, or as few as possible — projects stay simple on purpose, easier to hold in your head that way
