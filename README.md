@@ -1,8 +1,12 @@
 ### Hi, I'm musqz 👋
 
-Based in Rotterdam. On Linux since Ubuntu Warty, moved through Debian-based distros, dropped Ubuntu entirely, and have been Arch-based for the last ~10 years. Daily driver is [Mabox Linux](https://maboxlinux.org/), and I lean heavily on [skippy-xd](https://github.com/musqz/skippy-xd) for window switching on X11.
+Based in Midden-Holland (Middle Holland), NL. On Linux since Ubuntu Warty, moved through Debian-based distros, dropped Ubuntu entirely, and have been Arch-based for the last ~10 years. Daily driver is [Mabox Linux](https://maboxlinux.org/), and I lean heavily on [skippy-xd](https://github.com/musqz/skippy-xd) for window switching on X11.
 
-- 🔧 Building small, focused tools for the Arch/X11 desktop — window/mouse helpers, GUIs for existing CLI tools, forum search utilities
+No formal background — I learned by reading forum threads and wikis, copy-pasting snippets together, a lot of trial-and-error, then more reading until it actually made sense. Most of it came from studying and forking scripts across a lineage of distros: PsychOS, MX Linux, Puppy Linux, ArcoLinux, and for the last few years Mabox scripts (by Daniel). These days Claude Code fills in the part forum threads never did — understanding the structure of a script, what a function is actually doing — rather than just pattern-matching snippets.
+
+- 🐚 Bash first, always — it's home turf. I only look into Python once something already works in Bash and needs more.
+- 🧩 One file, or as few as possible — projects stay simple on purpose, easier to hold in your head that way
+- 🔩 C isn't a strong area yet. My part in [skippy-xd](https://github.com/musqz/skippy-xd) stayed scoped to the man page and a bit of class code, not core logic
 - 🛡️ Maintaining **archcanary**, a layered AUR supply-chain scanner (systemd + eBPF + kmod auditing) — the project that's picked up the most outside contribution so far
 - 📦 Packaging things properly: AppImages with bundled deps + zsync delta updates, PKGBUILDs for AUR
 - 🐧 X11, not Wayland — most of what I build assumes X11 first
@@ -27,7 +31,7 @@ Mostly solo maintainer, but open to it — archcanary has taken patches and inpu
 
 ### Tech
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,go,bash,linux,git,github" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=bash,python,linux,git,github,c,cpp,go" alt="tech stack" />
 
 ---
 
